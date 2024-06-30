@@ -2,6 +2,8 @@ def add_numbers(a, b):
     """
     This function takes two numbers and returns their sum.
     """
+    print("new update!!!")
+
     return a + b
 
 # Example usage:
